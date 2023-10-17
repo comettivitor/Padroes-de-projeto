@@ -1,2 +1,2 @@
 # Padroes-de-projeto
-Alguns exemplos de padrões de projeto utilizando java puro.
+Alguns exemplos de padrões de projeto utilizando java puro e spring.
